@@ -1,0 +1,72 @@
+a:link {
+    text-decoration: none;
+	color: white;
+}
+
+a:visited {
+    text-decoration: none;
+	color: orange;
+}
+
+a:hover {
+    text-decoration: underline;
+	color: darkorange;
+}
+
+a:active {
+    text-decoration: underline;
+	color: darkorange;
+}
+			.content
+			{
+				margin: 0px auto 0px auto;
+				width:740px;
+				min-height: 100%;
+				background-color: #777;
+				list-style-type: none;  
+			}
+			body
+			{
+				color: white;
+				background-color: black;
+				vertical-align: middle;
+				font-family: monospace;
+				 }
+.topEntery
+{
+	width:100%;
+	height: 140px;
+	margin: 10px 0px;
+	background-image: url('../img/topTextL.jpg');
+	float:left;
+	color: #008037;
+	position: relative;
+}
+.topText
+{
+	position: relative;
+	margin: 0px;
+	float: left;
+	color: #9AD000;
+	font-size: 20px;
+	background-color: #444;
+	border: 2px solid #9AD000;
+	padding: 5px;
+}
+h1
+{
+	position: absolute;
+	margin: 10px;
+	bottom:0px;
+	left: 130px;
+	font-size: 40px;
+	
+}
+img
+{
+	margin: 10px;
+	float:left;
+	border: 2px solid #008037;
+	width:120px;
+	height:auto
+}	
